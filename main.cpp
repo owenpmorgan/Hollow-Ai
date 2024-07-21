@@ -1,11 +1,8 @@
 // Owen Morgan
 // EE1010 C++
 // Final Project - Game
-// Version 1.00
+// Version 1.01
 
-//#include <vector> // Vectors are used for inventories, routes
-//#include <iomanip> // Just for the inventory screen to set table widths
-//#include <cstdlib>
 #include <iostream> // used for cin cout mainly
 #include <ctime> // just used to gen a random number for stat creation
 #include <thread> // These two just used in pauseOutput() to get a cross platform time delay, note this also includes chrono
@@ -16,13 +13,9 @@
 player player1;
 player player2;
 
-
-
 int main() {
 
     std::srand(time(nullptr));
-
-
 
 // Start with no game in progress so it falls into the first part of the game loop
 // cont is the variable watched to see if the user wants to continue the game at various points
