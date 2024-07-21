@@ -30,7 +30,7 @@ This is a C++ project for an RPG game created as part of the EE1010 coursework. 
     ```shell
       make
     ```
-   5. **Run the Exectuable**
+5. **Run the Exectuable**
    ```shell
     ./Hollow-Ai
     ```
