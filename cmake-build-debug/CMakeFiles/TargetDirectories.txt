@@ -1,0 +1,3 @@
+/Users/owenmorgan/Library/Mobile Documents/com~apple~CloudDocs/CLOUD/STEM/_Programming/_C++/Hollow-Ai/cmake-build-debug/CMakeFiles/Hollow-Ai.dir
+/Users/owenmorgan/Library/Mobile Documents/com~apple~CloudDocs/CLOUD/STEM/_Programming/_C++/Hollow-Ai/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/owenmorgan/Library/Mobile Documents/com~apple~CloudDocs/CLOUD/STEM/_Programming/_C++/Hollow-Ai/cmake-build-debug/CMakeFiles/rebuild_cache.dir
