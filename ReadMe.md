@@ -58,6 +58,11 @@ modern format and then to add functionality, and fixes.
 - Maybe add some graphics, just very simple map with dot where you are or similar to start with.
 - Make audio play on encounters etc.
 - Add more flavour, items, enemies etc.
+- Add music
+- Add resize terminal window on run
+- Make own window
+- Add simple graphics
+- Add mouse support and gui (:O)
 
 ## Completed Goals ##
 
